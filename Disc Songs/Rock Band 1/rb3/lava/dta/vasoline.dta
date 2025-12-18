@@ -1,0 +1,68 @@
+(vasoline 
+   (name "Vasoline") 
+   (artist "Stone Temple Pilots") 
+   (master 1) 
+   (song 
+      (name "songs/vasoline/vasoline") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4 5)) 
+            (bass 
+               (6)) 
+            (guitar 
+               (7 8)) 
+            (vocals 
+               (9 10)))) 
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-1.8 -1.8 -1.8 -1.8 -3.3 -3.3 -1.8 -4.3 -4.3 -3.3 -3.3 -6.0 -6.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 64) 
+   (song_length 180698) 
+   (preview 61400 91400) 
+   (rank 
+      (band 370) 
+      (real_keys 0) 
+      (guitar 340) 
+      (real_bass 247) 
+      (drum 320) 
+      (bass 340) 
+      (keys 0) 
+      (vocals 175) 
+      (real_guitar 327)) 
+   (genre alternative) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 10) 
+   (year_released 1994) 
+   (rating 2) 
+   (sub_genre subgenre_alternative) 
+   (song_id 40) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (album_name "Purple") 
+   (album_track_number 2)
+   (author "Harmonix, Strings: RK")     
+   (real_guitar_tuning   
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

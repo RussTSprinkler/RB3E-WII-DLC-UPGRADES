@@ -1,0 +1,68 @@
+(deadonarrival 
+   (name "Dead on Arrival") 
+   (artist "Fall Out Boy") 
+   (master 1) 
+   (song 
+      (name "songs/deadonarrival/deadonarrival") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3)) 
+            (bass 
+               (4)) 
+            (guitar 
+               (5 6)) 
+            (vocals 
+               (7 8)))) 
+      (pans 
+         (0.0 0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (0.0 0.0 -1.5 -1.5 -3.0 -4.0 -4.0 -5.0 -5.0 -4.0 -4.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 250)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 64) 
+   (song_length 197355) 
+   (preview 11500 41500) 
+   (rank 
+      (band 290) 
+      (real_keys 0) 
+      (guitar 325) 
+      (real_bass 333) 
+      (drum 370) 
+      (bass 325) 
+      (keys 0) 
+      (vocals 215) 
+      (real_guitar 263)) 
+   (genre emo) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1)
+   (author "Harmonix, Strings: Ziggy, RK")   
+   (year_released 2003) 
+   (rating 1) 
+   (sub_genre subgenre_emo) 
+   (song_id 9) 
+   (solo 
+      (guitar vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (album_name "Take This to Your Grave") 
+   (album_track_number 2) 
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

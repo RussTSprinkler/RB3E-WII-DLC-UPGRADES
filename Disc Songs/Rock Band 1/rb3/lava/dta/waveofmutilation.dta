@@ -1,0 +1,68 @@
+(waveofmutilation 
+   (name "Wave of Mutilation") 
+   (artist "Pixies") 
+   (master 1) 
+   (song 
+      (name "songs/waveofmutilation/waveofmutilation") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4 5)) 
+            (bass 
+               (6)) 
+            (guitar 
+               (7 8)) 
+            (vocals 
+               (9 10)))) 
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-1.0 -1.0 -1.0 -1.0 -2.5 -2.5 -3.0 -3.0 -3.0 -5.0 -5.0 -5.5 -5.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 1) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 32) 
+   (song_length 127409) 
+   (preview 40000 70000) 
+   (rank 
+      (band 145) 
+      (real_keys 0) 
+      (guitar 150) 
+      (real_bass 150) 
+      (drum 140) 
+      (bass 150) 
+      (keys 0) 
+      (vocals 190) 
+      (real_guitar 150)) 
+   (genre alternative) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1989) 
+   (rating 2) 
+   (sub_genre subgenre_alternative) 
+   (song_id 42)
+   (author "Harmonix, Strings: Ruggy, RK")       
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (album_name "Doolittle") 
+   (album_track_number 3) 
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

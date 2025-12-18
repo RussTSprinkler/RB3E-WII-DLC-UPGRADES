@@ -1,0 +1,69 @@
+(shouldistay 
+   (name "Should I Stay or Should I Go") 
+   (artist "The Clash") 
+   (master 1) 
+   (song 
+      (name "songs/shouldistay/shouldistay") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4 5)) 
+            (bass 
+               (6)) 
+            (guitar 
+               (7 8)) 
+            (vocals 
+               (9 10)))) 
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (0.0 0.0 0.0 0.0 -3.0 -3.0 -3.0 -4.0 -4.0 -4.5 -4.5 -0.5 -0.5 -5.0 -5.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (crowd_channels 13 14) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 32) 
+   (song_length 193160) 
+   (preview 42750 70500) 
+   (rank 
+      (band 150) 
+      (real_keys 0) 
+      (guitar 80) 
+      (real_bass 65) 
+      (drum 220) 
+      (bass 80) 
+      (keys 0) 
+      (vocals 160) 
+      (real_guitar 165)) 
+   (genre punk) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1982) 
+   (rating 2) 
+   (sub_genre subgenre_other) 
+   (song_id 35)
+   (author "Harmonix, Strings: RK")       
+   (solo 
+      (vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (album_name "Combat Rock") 
+   (album_track_number 3) 
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

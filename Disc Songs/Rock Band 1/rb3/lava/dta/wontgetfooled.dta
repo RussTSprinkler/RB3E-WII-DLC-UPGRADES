@@ -1,0 +1,66 @@
+(wontgetfooled 
+   (name "Won't Get Fooled Again") 
+   (artist "The Who") 
+   (master 1) 
+   (song 
+      (name "songs/wontgetfooled/wontgetfooled") 
+      (tracks 
+         (
+            (drum 
+               (0 1)) 
+            (bass 
+               (2)) 
+            (guitar 
+               (3 4)) 
+            (vocals 
+               (5 6))
+            (keys 
+               (7 8))))  
+      (pans 
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (0.0 0.0 -1.5 -1.5 -1.5 -2.5 -2.5 -4.0 -4.0 -5.0 -5.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (crowd_channels 9 10) 
+      (vocal_parts 2) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 32) 
+   (song_length 515120) 
+   (preview 75750 105750) 
+   (rank 
+      (band 500) 
+      (real_keys 450) 
+      (guitar 350) 
+      (real_bass 0) 
+      (drum 500) 
+      (bass 350) 
+      (keys 450) 
+      (vocals 275) 
+      (real_guitar 0)) 
+   (genre classicrock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1971) 
+   (rating 1) 
+   (sub_genre subgenre_classicrock) 
+   (song_id 45) 
+   (solo 
+      (guitar vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (album_name "Who's Next") 
+   (album_track_number 9))

@@ -1,0 +1,71 @@
+(epic 
+   (name "Epic") 
+   (artist "Faith No More") 
+   (master 1) 
+   (song 
+      (name "songs/epic/epic") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 
+               (5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9))
+            (keys 
+               (10 11)))) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (0.0 -3.0 -3.0 -1.5 -1.5 -3.5 -4.0 -4.0 -4.5 -4.5 -4.5 -4.5 -4.5 -4.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (crowd_channels 12 13) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 16) 
+   (song_length 298791) 
+   (preview 168300 198300) 
+   (rank 
+      (band 265) 
+      (real_keys 211) 
+      (guitar 280) 
+      (real_bass 304) 
+      (drum 200) 
+      (bass 280) 
+      (keys 170) 
+      (vocals 140) 
+      (real_guitar 344)) 
+   (genre rock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10)
+   (author "Harmonix, Strings: RK")   
+   (album_art 1) 
+   (year_released 1990) 
+   (rating 1) 
+   (sub_genre subgenre_rock) 
+   (song_id 14) 
+   (solo 
+      (guitar vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (album_name "The Real Thing") 
+   (album_track_number 2) 
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

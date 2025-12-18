@@ -1,0 +1,70 @@
+(blackholesun 
+   (name "Black Hole Sun") 
+   (artist "Soundgarden") 
+   (master 1) 
+   (song 
+      (vocal_parts 3) 
+      (name "songs/blackholesun/blackholesun") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 
+               (5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)))) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (0.0 -1.0 -1.0 -1.5 -1.5 -3.0 -2.5 -2.5 -4.0 -4.0 -2.5 -2.5 -7.5 -7.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (crowd_channels 12 13) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 95)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 32) 
+   (song_length 333948) 
+   (preview 116375 146375) 
+   (rank 
+      (band 210) 
+      (real_keys 0) 
+      (guitar 265) 
+      (real_guitar 302) 
+      (drum 240) 
+      (bass 265) 
+      (real_bass 182) 
+      (keys 0) 
+      (vocals 150)) 
+   (genre rock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10)
+   (author "Harmonix, Strings: John Smith, RK")   
+   (format 10) 
+   (album_art 1) 
+   (year_released 1994) 
+   (rating 2) 
+   (sub_genre subgenre_rock) 
+   (song_id 3) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents -50.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding latin1) 
+   (album_name "Superunknown") 
+   (album_track_number 7) 
+   (real_guitar_tuning 
+      (-2 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (-2 0 0 0)))

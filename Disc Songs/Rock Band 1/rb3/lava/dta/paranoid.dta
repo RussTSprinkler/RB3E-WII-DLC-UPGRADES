@@ -1,0 +1,66 @@
+(paranoid 
+   (name "Paranoid") 
+   (artist "Black Sabbath") 
+   (master 0) 
+   (song 
+      (name "songs/paranoid/paranoid") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3)) 
+            (bass 
+               (4)) 
+            (guitar 
+               (5 6)) 
+            (vocals 
+               (7 8)))) 
+      (pans 
+         (0.0 0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (0.0 0.0 -1.5 -1.5 -1.5 -4.5 -4.5 -6.0 -6.0 -6.0 -6.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 1) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 250)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoFast) 
+   (song_length 181481) 
+   (preview 15000 38600) 
+   (rank 
+      (band 310) 
+      (real_keys 0) 
+      (guitar 310) 
+      (real_bass 70) 
+      (drum 270) 
+      (bass 310) 
+      (keys 0) 
+      (vocals 105) 
+      (real_guitar 240)) 
+   (genre metal) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10)
+   (author "Harmonix, Strings: RK")       
+   (album_art 1) 
+   (year_released 1970) 
+   (rating 1) 
+   (sub_genre subgenre_metal) 
+   (song_id 30) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

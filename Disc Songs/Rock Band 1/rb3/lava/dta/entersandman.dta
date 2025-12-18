@@ -1,0 +1,69 @@
+(entersandman 
+   (name "Enter Sandman") 
+   (artist "Metallica") 
+   (master 1) 
+   (song 
+      (name "songs/entersandman/entersandman") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3)) 
+            (bass 
+               (4)) 
+            (guitar 
+               (5 6)) 
+            (vocals 
+               (7 8)))) 
+      (pans 
+         (0.0 0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (-1.0 -0.5 -2.5 -2.5 -1.5 -3.0 -3.0 -5.0 -5.0 -3.0 -3.0 -6.0 -6.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (crowd_channels 11 12) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (song_length 333389) 
+   (preview 89250 119250) 
+   (rank 
+      (band 420) 
+      (real_keys 0) 
+      (guitar 375) 
+      (real_bass 234) 
+      (drum 420) 
+      (bass 400) 
+      (keys 0) 
+      (vocals 230) 
+      (real_guitar 424)) 
+   (genre metal) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1)
+   (author "Harmonix, Strings: RK")   
+   (year_released 1991) 
+   (rating 2) 
+   (sub_genre subgenre_metal) 
+   (song_id 13) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (album_name "Metallica") 
+   (album_track_number 1) 
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

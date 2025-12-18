@@ -1,0 +1,70 @@
+(whenyouwereyoung 
+   (name "When You Were Young") 
+   (artist "The Killers") 
+   (master 1) 
+   (song 
+      (name "songs/whenyouwereyoung/whenyouwereyoung") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3)) 
+            (bass 
+               (4)) 
+            (guitar 
+               (5 6)) 
+            (vocals 
+               (7 8)) 
+            (keys 
+               (9 10)))) 
+      (pans 
+         (0.0 0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-0.5 -1.5 -2.5 -2.5 -3.5 -3.0 -3.0 -3.5 -3.5 -6.0 -6.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 32) 
+   (song_length 219885) 
+   (preview 65800 87700) 
+   (rank 
+      (band 200) 
+      (real_keys 211) 
+      (guitar 230) 
+      (real_bass 170) 
+      (drum 335) 
+      (bass 230) 
+      (keys 211) 
+      (vocals 210) 
+      (real_guitar 280)) 
+   (genre alternative) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 2006) 
+   (rating 2) 
+   (sub_genre subgenre_alternative) 
+   (song_id 44) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (album_name "Sam's Town") 
+   (album_track_number 3)
+   (author "Harmonix, Strings: Ruggy, RK")       
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

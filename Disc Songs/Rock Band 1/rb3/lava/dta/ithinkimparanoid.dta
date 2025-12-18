@@ -1,0 +1,68 @@
+(ithinkimparanoid 
+   (name "I Think I'm Paranoid") 
+   (artist "Garbage") 
+   (master 1) 
+   (song 
+      (name "songs/ithinkimparanoid/ithinkimparanoid") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 
+               (5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)) 
+            (keys 
+               (10 11)))) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (0.0 -1.5 -1.5 0.0 0.0 -3.0 -2.5 -2.5 -2.0 -2.0 -4.5 -4.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 2) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 32) 
+   (song_length 221044) 
+   (preview 28250 58250) 
+   (rank 
+      (band 115) 
+      (real_keys 170) 
+      (guitar 155) 
+      (real_bass 125) 
+      (drum 115) 
+      (bass 155) 
+      (keys 170) 
+      (vocals 120) 
+      (real_guitar 180)) 
+   (genre poprock) 
+   (vocal_gender female) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1998) 
+   (rating 2) 
+   (sub_genre subgenre_other) 
+   (song_id 23) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (album_name "Version 2.0") 
+   (album_track_number 2) 
+   (real_guitar_tuning
+   (author "Harmonix, Strings: RK")       
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (-2 0 0 0)))

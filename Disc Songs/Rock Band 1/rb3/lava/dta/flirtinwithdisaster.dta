@@ -1,0 +1,66 @@
+(flirtinwithdisaster 
+   (name "Flirtin' with Disaster") 
+   (artist "Molly Hatchet") 
+   (master 1) 
+   (song 
+      (name "songs/flirtinwithdisaster/flirtinwithdisaster") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4 5)) 
+            (bass 
+               (6)) 
+            (guitar 
+               (7 8)) 
+            (vocals 
+               (9 10)))) 
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-1.5 -1.5 -1.5 -1.5 -3.0 -3.0 -1.5 -3.0 -3.0 -4.0 -4.0 -4.5 -4.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 1) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/handclap_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 16) 
+   (song_length 302105) 
+   (preview 29550 53963) 
+   (rank 
+      (band 460) 
+      (guitar 390) 
+      (real_bass 425) 
+      (drum 470) 
+      (bass 390) 
+      (vocals 245) 
+      (real_guitar 475)) 
+   (genre southernrock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10)
+   (author "Harmonix, Strings: RK")   
+   (album_art 1) 
+   (year_released 1979) 
+   (rating 2) 
+   (sub_genre subgenre_southernrock) 
+   (song_id 15) 
+   (solo 
+      (guitar vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (album_name "Flirtin' With Disaster") 
+   (album_track_number 6) 
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

@@ -1,0 +1,71 @@
+(suffragettecity
+   (name "Suffragette City") 
+   (artist "David Bowie") 
+   (master 1) 
+   (song 
+      (name "songs/suffragettecity/suffragettecity") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2)) 
+            (bass 
+               (3)) 
+            (guitar 
+               (4 5)) 
+            (vocals 
+               (6 7))
+	    (keys	
+	       (8 9)))) 
+      (pans 
+         (0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (-2.0 0.0 0.0 -2.5 -3.0 -3.0 -1.5 -1.5 -4.5 -4.5 -6.0 -6.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (crowd_channels 10 11) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 32) 
+   (song_length 206817) 
+   (preview 27600 57600) 
+   (rank 
+      (band 270) 
+      (real_keys 269) 
+      (guitar 260) 
+      (real_bass 180) 
+      (drum 180) 
+      (bass 260) 
+      (keys 269) 
+      (vocals 285) 
+      (real_guitar 230)) 
+   (genre glam) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1972) 
+   (rating 1) 
+   (sub_genre subgenre_glam) 
+   (song_id 36)
+   (author "Harmonix, Strings: RK")       
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (album_name "The Rise and Fall of Ziggy Stardust and the Spiders From Mars") 
+   (album_track_number 10) 
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

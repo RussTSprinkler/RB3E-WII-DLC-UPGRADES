@@ -1,0 +1,69 @@
+(sayitaintso 
+   (name "Say It Ain't So") 
+   (artist "Weezer") 
+   (master 1) 
+   (song 
+      (name "songs/sayitaintso/sayitaintso") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3)) 
+            (bass 
+               (4)) 
+            (guitar 
+               (5 6)) 
+            (vocals 
+               (7 8)))) 
+      (pans 
+         (0.0 0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (0.0 0.0 -5.0 -5.0 -2.0 -4.0 -4.0 -4.5 -4.5 -8.0 -8.0 -5.0 -5.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (crowd_channels 11 12) 
+      (vocal_parts 2) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 16) 
+   (song_length 262249) 
+   (preview 81750 111750) 
+   (rank 
+      (band 100) 
+      (real_keys 0) 
+      (guitar 190) 
+      (real_bass 38) 
+      (drum 100) 
+      (bass 190) 
+      (keys 0) 
+      (vocals 95) 
+      (real_guitar 348)) 
+   (genre alternative) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1994) 
+   (rating 2) 
+   (sub_genre subgenre_alternative) 
+   (song_id 34) 
+   (solo 
+      (guitar vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8)
+   (author "Harmonix, Strings: RK")       
+   (album_name "Weezer (The Blue Album)") 
+   (album_track_number 7) 
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

@@ -1,0 +1,67 @@
+(learntofly 
+   (name "Learn to Fly") 
+   (artist "Foo Fighters") 
+   (master 1) 
+   (song 
+      (name "songs/learntofly/learntofly") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4 5)) 
+            (bass 
+               (6)) 
+            (guitar 
+               (7 8)) 
+            (vocals 
+               (9 10)))) 
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (0.0 0.0 0.0 0.0 -1.5 -1.5 -2.0 -4.0 -4.0 -4.5 -4.5 -3.0 -3.0 -6.5 -6.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (crowd_channels 13 14) 
+      (vocal_parts 1) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 32) 
+   (song_length 238358) 
+   (preview 45548 75550) 
+   (rank 
+      (band 230) 
+      (real_keys 0) 
+      (guitar 200) 
+      (real_bass 245) 
+      (drum 230) 
+      (bass 200) 
+      (keys 0) 
+      (vocals 115) 
+      (real_guitar 285)) 
+   (genre rock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1999) 
+   (rating 2) 
+   (sub_genre subgenre_rock) 
+   (song_id 24) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (album_name "There is Nothing Left to Lose") 
+   (album_track_number 3) 
+   (real_guitar_tuning
+   (author "Harmonix, Strings: RK")       
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

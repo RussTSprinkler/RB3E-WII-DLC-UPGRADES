@@ -1,0 +1,66 @@
+(runtothehills 
+   (name "Run to the Hills") 
+   (artist "Iron Maiden") 
+   (master 0) 
+   (song 
+      (name "songs/runtothehills/runtothehills") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 
+               (5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)))) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (0.0 -2.5 -2.5 -1.0 -1.0 -1.5 -3.0 -3.0 -2.5 -2.5 -6.0 -6.0 -5.5 -5.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (crowd_channels 12 13) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoFast) 
+   (song_length 236916) 
+   (preview 11000 41000) 
+   (rank 
+      (band 600) 
+      (real_keys 0) 
+      (guitar 450) 
+      (real_bass 448) 
+      (drum 490) 
+      (bass 450) 
+      (keys 0) 
+      (vocals 300) 
+      (real_guitar 447)) 
+   (genre metal) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1982) 
+   (rating 2) 
+   (sub_genre subgenre_metal) 
+   (song_id 32) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

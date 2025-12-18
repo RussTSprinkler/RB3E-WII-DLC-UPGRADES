@@ -1,0 +1,70 @@
+(thehandthatfeeds
+   (name "The Hand That Feeds") 
+   (artist "Nine Inch Nails") 
+   (master 1) 
+   (song 
+      (name "songs/thehandthatfeeds/thehandthatfeeds") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4 5)) 
+            (bass 
+               (6 7)) 
+            (guitar 
+               (8 9)) 
+            (vocals 
+               (10 11)) 
+            (keys 
+               (12 13)))) 
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -4.5 -4.5 -4.0 -4.0 -4.0 -4.0 -4.0 -4.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 32) 
+   (song_length 226714) 
+   (preview 21475 51475) 
+   (rank 
+      (band 260) 
+      (real_keys 153) 
+      (guitar 170) 
+      (real_bass 170) 
+      (drum 250) 
+      (bass 170) 
+      (keys 153) 
+      (vocals 180) 
+      (real_guitar 170)) 
+   (genre rock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 2005) 
+   (rating 2) 
+   (sub_genre subgenre_rock) 
+   (song_id 37) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (album_name "With Teeth") 
+   (album_track_number 4)
+   (author "Harmonix, Strings: Ruggy, RK")       
+   (real_guitar_tuning 
+      (-2 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

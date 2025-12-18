@@ -1,0 +1,70 @@
+(brainpower 
+   (name "Brainpower") 
+   (artist "Freezepop") 
+   (master 1) 
+   (song 
+      (name "songs/brainpower/brainpower") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3)) 
+            (bass 
+               (4 5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)) 
+            (keys 
+               (10 11)))) 
+      (pans 
+         (0.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-2.5 -2.5 -2.5 -2.5 -4.0 -4.0 -4.0 -4.0 -2.5 -2.5 -4.0 -4.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 250)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 64) 
+   (song_length 129473) 
+   (preview 23500 44445) 
+   (rank 
+      (band 320) 
+      (real_keys 170) 
+      (guitar 340) 
+      (real_bass 310) 
+      (drum 300) 
+      (bass 343) 
+      (keys 1) 
+      (vocals 200) 
+      (real_guitar 405)) 
+   (genre rock) 
+   (vocal_gender female) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 2007) 
+   (rating 2)
+   (author "Harmonix, Strings: Ruggy")   
+   (sub_genre subgenre_rock) 
+   (song_id 48) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (album_name "Future Future Future Perfect") 
+   (album_track_number 6) 
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

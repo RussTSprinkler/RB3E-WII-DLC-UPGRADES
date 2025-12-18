@@ -1,0 +1,69 @@
+(areyougonnabemygirl
+   (name "Are You Gonna Be My Girl") 
+   (artist "Jet") 
+   (master 1) 
+   (song 
+      (name "songs/areyougonnabemygirl/areyougonnabemygirl") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 
+               (5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8)))) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 0.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (0.0 0.0 0.0 -1.5 -1.5 -3.0 -4.0 -4.0 -1.5 -6.0 -6.0 -4.5 -4.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (crowd_channels 11 12) 
+      (vocal_parts 1) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 250)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 16) 
+   (song_length 215923) 
+   (preview 33200 56158) 
+   (rank 
+      (band 300) 
+      (real_keys 0) 
+      (guitar 285) 
+      (real_bass 270) 
+      (drum 300) 
+      (bass 285) 
+      (keys 0) 
+      (vocals 235) 
+      (real_guitar 410)) 
+   (genre rock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10)
+   (author "Harmonix, Strings: RK")   
+   (album_art 1) 
+   (year_released 2003) 
+   (rating 2) 
+   (sub_genre subgenre_rock) 
+   (song_id 1) 
+   (solo 
+      (guitar vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (album_name "Get Born") 
+   (album_track_number 2) 
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

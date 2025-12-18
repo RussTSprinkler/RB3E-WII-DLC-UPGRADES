@@ -1,0 +1,66 @@
+(greengrass 
+   (name "Green Grass and High Tides") 
+   (artist "The Outlaws") 
+   (master 0) 
+   (song 
+      (name "songs/greengrass/greengrass") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 
+               (5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)))) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (0.0 0.0 0.0 -1.5 -1.5 -3.0 -3.0 -3.0 -6.0 -6.0 -6.0 -6.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 250)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 32) 
+   (song_length 592905) 
+   (preview 95450 125450) 
+   (rank 
+      (band 430) 
+      (real_keys 0) 
+      (guitar 500) 
+      (real_guitar 570) 
+      (drum 340) 
+      (bass 500) 
+      (real_bass 470) 
+      (keys 0) 
+      (vocals 255)) 
+   (genre southernrock) 
+   (vocal_gender male) 
+   (version 1)
+   (author "Harmonix, Strings: RK") 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1975) 
+   (rating 1) 
+   (sub_genre subgenre_southernrock) 
+   (song_id 19) 
+   (solo 
+      (guitar vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

@@ -1,0 +1,68 @@
+(timmy 
+   (name "Timmy & the Lords of the Underworld") 
+   (artist "Timmy & the Lords of the Underworld") 
+   (master 1) 
+   (song 
+      (name "songs/timmy/timmy") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3)) 
+            (bass 
+               (4)) 
+            (guitar 
+               (5 6)) 
+            (vocals 
+               (7 8)))) 
+      (pans 
+         (0.0 0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (0.0 -3.0 -3.0 -3.0 -1.5 -4.0 -4.0 -2.5 -2.5 -4.5 -4.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 32) 
+   (song_length 127551) 
+   (preview 2450 30600) 
+   (rank 
+      (band 380) 
+      (real_keys 0) 
+      (guitar 400) 
+      (real_bass 269) 
+      (drum 350) 
+      (bass 242) 
+      (keys 0) 
+      (vocals 400) 
+      (real_guitar 302)) 
+   (genre rock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 2000) 
+   (rating 2) 
+   (sub_genre subgenre_rock) 
+   (song_id 58) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (album_name "Timmy & The Lords of the Underworld") 
+   (album_track_number 1) 
+   (real_guitar_tuning
+   (author "Harmonix, Strings: RK")       
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

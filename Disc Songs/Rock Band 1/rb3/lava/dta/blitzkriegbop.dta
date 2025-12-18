@@ -1,0 +1,67 @@
+(blitzkriegbop 
+   (name "Blitzkrieg Bop") 
+   (artist "Ramones") 
+   (master 1) 
+   (song 
+      (name "songs/blitzkriegbop/blitzkriegbop") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3)) 
+            (bass 
+               (4)) 
+            (guitar 
+               (5)) 
+            (vocals 
+               (6 7)))) 
+      (pans 
+         (0.0 0.0 -1.0 1.0 -0.7 0.7 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (0.0 0.0 -1.0 -1.0 -4.0 -3.5 -4.0 -4.0 -2.5 -2.5 -5.5 -5.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (crowd_channels 10 11) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 64) 
+   (song_length 136844) 
+   (preview 25600 55600) 
+   (rank 
+      (band 185) 
+      (real_keys 0) 
+      (guitar 140) 
+      (real_bass 40) 
+      (drum 210) 
+      (bass 140) 
+      (keys 0) 
+      (vocals 85) 
+      (real_guitar 60)) 
+   (genre punk) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10)
+   (author "Harmonix, Strings: Ruggy, RK")
+   (album_art 1) 
+   (year_released 1976) 
+   (rating 1) 
+   (sub_genre subgenre_other) 
+   (song_id 4) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (album_name "Ramones") 
+   (album_track_number 1) 
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

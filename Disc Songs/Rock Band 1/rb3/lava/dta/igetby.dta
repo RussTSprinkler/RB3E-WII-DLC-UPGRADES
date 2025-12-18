@@ -1,0 +1,66 @@
+(igetby 
+   (name "I Get By") 
+   (artist "Honest Bob and the Factory-to-Dealer Incentives") 
+   (master 1) 
+   (song 
+      (name "songs/igetby/igetby") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3)) 
+            (bass 
+               (4 5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8)))) 
+      (pans 
+         (0.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0)) 
+      (vols 
+         (0.0 0.0 -3.0 -3.0 -4.5 -4.5 -5.0 -5.0 -1.5 -4.5 -4.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 250)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 32) 
+   (song_length 261168) 
+   (preview 49750 79750) 
+   (rank 
+      (band 350) 
+      (guitar 270) 
+      (real_bass 280) 
+      (drum 330) 
+      (bass 122) 
+      (vocals 330) 
+      (real_guitar 290)) 
+   (genre rock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10)
+   (author "Harmonix, Strings: RK")    
+   (album_art 1) 
+   (year_released 2007) 
+   (rating 1) 
+   (sub_genre subgenre_rock) 
+   (song_id 51) 
+   (solo 
+      (vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (album_name "Second & Eighteen") 
+   (album_track_number 16)  
+   (real_guitar_tuning 
+      (-2 -2 0 0 0 0 -2)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

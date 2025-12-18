@@ -1,0 +1,66 @@
+(trainkeptarollin
+   (name "Train Kept A Rollin'") 
+   (artist "Aerosmith") 
+   (master 0) 
+   (song 
+      (name "songs/trainkeptarollin/trainkeptarollin") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3)) 
+            (bass 
+               (4)) 
+            (guitar 
+               (5 6)) 
+            (vocals 
+               (7 8)))) 
+      (pans 
+         (0.0 0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (0.0 0.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -4.5 -4.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 1) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/cowbell_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 64) 
+   (song_length 340071) 
+   (preview 27750 57250) 
+   (rank 
+      (band 295) 
+      (real_keys 0) 
+      (guitar 400) 
+      (real_bass 153) 
+      (drum 375) 
+      (bass 375) 
+      (keys 0) 
+      (vocals 270) 
+      (real_guitar 453)) 
+   (genre rock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1974) 
+   (rating 2) 
+   (sub_genre subgenre_rock) 
+   (song_id 39) 
+   (solo 
+      (guitar vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8)
+   (author "Harmonix, Strings: RK")       
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

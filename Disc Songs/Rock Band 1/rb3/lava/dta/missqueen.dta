@@ -1,0 +1,69 @@
+(missqueen 
+   (name "Mississippi Queen") 
+   (artist "Mountain") 
+   (master 0) 
+   (song 
+      (name "songs/missqueen/missqueen") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 
+               (5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9))
+            (keys 
+               (10 11)))) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-0.5 -2.0 -2.0 -0.5 -0.5 -0.5 -4.0 -4.0 -1.5 -1.5 -5.0 -5.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 1) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/cowbell_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 32) 
+   (song_length 166403) 
+   (preview 33750 61250) 
+   (rank 
+      (band 120) 
+      (real_keys 360) 
+      (guitar 120) 
+      (real_guitar 220) 
+      (drum 165) 
+      (bass 120) 
+      (real_bass 170) 
+      (keys 360) 
+      (vocals 265)) 
+   (genre southernrock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1971) 
+   (rating 2) 
+   (sub_genre subgenre_southernrock) 
+   (song_id 27) 
+   (solo 
+      (guitar vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1)
+   (author "Harmonix, Strings: Ruggy, RK. Keys: SonicSBL")       
+   (encoding latin1) 
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

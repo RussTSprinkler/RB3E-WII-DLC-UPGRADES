@@ -1,0 +1,70 @@
+(inbloom 
+   (name "In Bloom") 
+   (artist "Nirvana") 
+   (master 1) 
+   (song 
+      (vocal_parts 2) 
+      (name "songs/inbloom/inbloom") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 
+               (5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)))) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (0.0 -1.5 -1.5 -1.5 -1.5 -4.5 -3.5 -3.5 -4.5 -4.5 -6.0 -6.0 -5.5 -5.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (crowd_channels 12 13) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 16) 
+   (song_length 260673) 
+   (preview 30675 60675) 
+   (rank 
+      (band 110) 
+      (real_keys 0) 
+      (guitar 90) 
+      (real_guitar 155) 
+      (drum 130) 
+      (bass 90) 
+      (real_bass 100) 
+      (keys 0) 
+      (vocals 90)) 
+   (genre grunge) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1991) 
+   (rating 2) 
+   (sub_genre subgenre_grunge) 
+   (song_id 22) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding latin1) 
+   (album_name "Nevermind") 
+   (album_track_number 2)
+   (author "Harmonix, Strings: Ruggy, RK")       
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

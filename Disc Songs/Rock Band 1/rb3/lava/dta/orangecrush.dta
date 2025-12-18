@@ -1,0 +1,69 @@
+(orangecrush
+   (name "Orange Crush") 
+   (artist "R.E.M.") 
+   (master 1) 
+   (song 
+      (name "songs/orangecrush/orangecrush") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4 5)) 
+            (bass 
+               (6)) 
+            (guitar 
+               (7 8)) 
+            (vocals 
+               (9 10)))) 
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (0.0 0.0 0.0 0.0 -3.0 -3.0 -3.0 -3.0 -3.0 -2.5 -2.5 -2.0 -2.0 -7.5 -7.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (crowd_channels 13 14) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 32) 
+   (song_length 233457) 
+   (preview 21250 51250) 
+   (rank 
+      (band 240) 
+      (real_keys 0) 
+      (guitar 160) 
+      (real_bass 95) 
+      (drum 290) 
+      (bass 160) 
+      (keys 0) 
+      (vocals 145) 
+      (real_guitar 165)) 
+   (genre alternative) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1988) 
+   (rating 2) 
+   (sub_genre subgenre_alternative) 
+   (song_id 29)
+   (author "Harmonix, Strings: RK")       
+   (solo 
+      (guitar vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb1) 
+   (encoding utf8) 
+   (album_name "Green") 
+   (album_track_number 7) 
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))
