@@ -4,7 +4,7 @@ This is a repository of upgrades for the DLC and exports found [HERE](https://do
 
 Just drag the rb3 folder over the root of your SD card.
 
-(in some VERY rare cases, full songs may be uploaded to this as every part of it must be included/upgraded. feel free to disgard any you may not want)
+(in some VERY rare cases, full songs may be uploaded to this as every part of it must be included/upgraded. feel free to discard any you may not want)
 
 # INSTALLATION
 
