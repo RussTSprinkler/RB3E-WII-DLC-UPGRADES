@@ -1,0 +1,69 @@
+(ourlipsaresealed 
+   (name "Our Lips Are Sealed") 
+   (artist "Go-Go's") 
+   (master TRUE) 
+   (context 1005) 
+   (song 
+      (name "songs/ourlipsaresealed/ourlipsaresealed") 
+      (tracks_count 
+         (5 1 2 2 0 2)) 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 5) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)))) 
+      (vocal_parts 3) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-0.5 -1.5 -1.5 -4.0 -4.0 -3.5 -7.0 -7.0 -3.0 -3.0 -4.5 -4.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1)) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (midi_file "songs/ourlipsaresealed/ourlipsaresealed.mid")) 
+   (tuning_offset_cents -20) 
+   (song_scroll_speed 2300) 
+   (bank sfx/tambourine_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (preview 34179 64179) 
+   (rank 
+      (drum 162) 
+      (guitar 133) 
+      (bass 143) 
+      (vocals 146)
+      (real_guitar 193)
+      (real_bass 120) 
+      (band 161)) 
+   (genre poprock) 
+   (decade the80s) 
+   (vocal_gender female) 
+   (format 4) 
+   (version 1) 
+   (fake 
+      {== $SONG_VERSION 0 }) 
+   (downloaded TRUE) 
+   (song_id 1005650) 
+   (rating 1) 
+   (short_version 0) 
+   (album_art TRUE) 
+   (year_released 1981) 
+   (album_name "Beauty and the Beat") 
+   (album_track_number 1) 
+   (video_venues 
+      (video_04)) 
+   (base_points 366266) 
+   (song_length 164545) 
+   (solo 
+      (vocal_percussion)) 
+   (game_origin rb1_dlc) 
+   (vocal_tonic_note 0) 
+   (song_tonality 0))
