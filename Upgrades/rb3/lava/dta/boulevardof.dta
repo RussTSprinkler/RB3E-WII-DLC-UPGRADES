@@ -1,0 +1,67 @@
+(boulevardof 
+   (name "Boulevard of Broken Dreams") 
+   (artist "Green Day") 
+   (master 1) 
+   (song 
+      (name "songs/boulevardof/boulevardof") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 
+               (5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)))) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (-4.7 -4.5 -4.5 -5.7 -5.7 -3.7 -4.3 -4.3 -2.1 -2.1 -5.0 -5.0 -4.6 -4.6)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (crowd_channels 12 13) 
+      (vocal_parts 2) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoSlow) 
+   (song_length 264410) 
+   (preview 16559 46560) 
+   (rank 
+      (band 158) 
+      (real_keys 0) 
+      (guitar 193) 
+      (real_bass 118) 
+      (drum 123) 
+      (bass 136) 
+      (keys 0) 
+      (vocals 155) 
+      (real_guitar 165)) 
+   (genre rock) 
+   (vocal_gender male)
+   (rb3_plus_author Moo) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 2004) 
+   (rating 2) 
+   (sub_genre subgenre_rock) 
+   (song_id 3003) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin greenday) 
+   (encoding utf8) 
+   (album_name "American Idiot") 
+   (album_track_number 4) 
+   (vocal_tonic_note 5) 
+   (song_tonality 1))
