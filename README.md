@@ -1,10 +1,14 @@
 # RB3E-WII-DLC-UPGRADES
 
-This is a repository of upgrades for the DLC and exports found [HERE](https://docs.google.com/spreadsheets/d/19aPhcDbeoWBI5dnQcFKFc_2D8Y8GbPI98Ak-j-IKoaQ/edit?gid=0#gid=0).
+This is a repository of updates for the DLC and exports found [HERE](https://docs.google.com/spreadsheets/d/19aPhcDbeoWBI5dnQcFKFc_2D8Y8GbPI98Ak-j-IKoaQ/edit?gid=0#gid=0).
 
 Just drag the rb3 folder over the root of your SD card.
 
-(in some VERY rare cases, full songs may be uploaded to this as every part of it must be included/upgraded. feel free to discard any you may not want)
+Mainly just a collection of midis and dtas when RB3PLUS releases new stuff.
+
+If any MOGGS have trouble being played online they will also be updated here aswell.
+
+(in some VERY rare cases, full songs may be uploaded to this as every part of it must be included/dated.)
 
 # INSTALLATION
 
